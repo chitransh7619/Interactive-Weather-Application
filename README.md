@@ -1,3 +1,8 @@
+![WebApp](https://github.com/user-attachments/assets/38af188e-1c0c-4b33-8f3d-f358f6dbbab8)
+
+
+
+
 # Weather Application
 
 This is a React.js-based Weather Application designed to provide real-time weather information based on the user's location. The app utilizes the OpenWeatherMap API to fetch weather data and display it in a user-friendly interface. Key features and components include:
@@ -43,11 +48,5 @@ This is a React.js-based Weather Application designed to provide real-time weath
 - Ensure that you have an active internet connection for fetching weather data.
 - The application will prompt users to enable location services for accurate weather updates based on their current location.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-![WebApp](https://github.com/user-attachments/assets/38af188e-1c0c-4b33-8f3d-f358f6dbbab8)
 
 
